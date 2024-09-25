@@ -4,5 +4,4 @@ Este repositório hospeda o portfólio dos desenvolvedores responsáveis pelo Si
 
 <p align="center">
   <img src="https://github.com/mauricioBert/AquaSystem/aquasystem.png" alt="Imagem do projeto"/>
-  <img src="" alt="Imagem do projeto"/>
 </p>
