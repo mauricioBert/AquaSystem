@@ -1,7 +1,7 @@
+# AquaSystem
 
-
-<h1 align="center">AquaSystem</h1>
+Este repositório hospeda o portfólio dos desenvolvedores responsáveis pelo Sistema AquaSystem, destacando suas contribuições e especializações no desenvolvimento da solução.
 
 <p align="center">
-  <img src="https://github.com/mauricioBert/PI/assets/99756968/ea51b090-d2c8-4fa6-939d-bf26f5df1b6e" alt="AquaSystem">
+  <img src="https://github.com/user-attachments/assets/be58b7a7-f4e9-4a55-8a8c-4fe9227163a3" alt="Imagem do projeto"/>
 </p>
